@@ -38,6 +38,3 @@ A linguagem de programação C surgiu em 1972, criada por Denis Ritchie e Ken Th
 
 Uma das características mais marcantes da linguagem C é o fato de ser considerada uma linguagem de programação de baixo nível. Isso significa que ela permite ao programador um maior controle sobre o hardware do sistema, possibilitando a manipulação direta de memória e registros do processador. Essa característica torna a linguagem C extremamente eficiente e poderosa para o desenvolvimento de sistemas de software.
 
-<div>
-  <img alt="C" src="./Assets/c.png" />
-</div>
