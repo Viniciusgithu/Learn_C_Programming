@@ -24,6 +24,8 @@ Preparando o ambiente com Windows e VS Code.
   12. Deverá aparecer a versão que está instalada
   13. Abrir o VS Code
   14. Instalar as extensões: C/C++, Code Runner ou C/C++ Compile Run, C/C++ Extension Pack
+  15. Importante lembrar: toda vez que for construir ou editar o código em C, deverá passar por um processo de compilação (use o atalho F6)
+  16. Observar que ao compilar, irá gerar uma pasta, dentro da pasta onde está o código, onde será armazenada todos os arquivos .exe, chamada: "output"
 ```
     
 ## Stack utilizada
