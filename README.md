@@ -28,10 +28,11 @@ Preparando o ambiente com Windows e VS Code.
   16. Observar que ao compilar, irá gerar uma pasta, dentro da pasta onde está o código, onde será armazenada todos os arquivos .exe, chamada: "output"
 ```
     
-## Stack utilizada
+## Stack utilizada && materiais
 
 
 **Back-end:** C
+[PET-BCC](https://petbcc.ufscar.br/stdio/)
 
 
 ## Aprendizados
